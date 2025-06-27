@@ -29,25 +29,23 @@ python -m venv venv
 source venv/bin/activate  # Linux/macOS                                                                                                                              
 venv\Scripts\activate     # Windows                                                                                                                                     
 3.Install dependencies:                                                                                                                                                        
-pip install -r requirements.txt
-hhhhhhhhhhhhhhhh
+pip install -r requirements.txt                                                                                                                                      
 
+**Usage**                                                                                                                                                            
+Run the complete analysis: python breast_cancer_classification.py                                                                                                    
 
+This will:                                                                                                                                                           
+1. Download the dataset from GitHub                                                                                                                                      
+2. Preprocess and standardize features                                                                                                                                   
+3. Train the logistic regression model                                                                                                                                  
+4. Generate evaluation metrics and visualizations                                                                                                                       
+5. Save all plots in high-resolution PNG format                                                                                                                          
 
+**Workflow Overview**                                                                                                                                                
 
+![image](https://github.com/user-attachments/assets/24444882-5726-4b03-b66e-8e1bc03b363f)                                                                            
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**References**                                                                                                                                                       
+1. Breast Cancer Wisconsin Dataset: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic                                                                                          
+2. Scikit-learn Documentation: https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression                                                         
+3.Pedregosa et al. (2011): https://jmlr.org/papers/v12/pedregosa11a.html                                                                                              
