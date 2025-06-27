@@ -15,8 +15,8 @@ The Breast Cancer Wisconsin Diagnostic Dataset contains 569 samples with 30 feat
 radius_mean - Mean distance from center to points on perimeter.                                                                                                       
 texture_mean - Standard deviation of gray-scale values.                                                                                                               
 concavity_worst - Worst severity of concave portions of contour and 27 other computed features.                                                                      
-**Class Distribution:**
 
+**Class Distribution:**                                                                                                                                              
 Benign (B): 357 samples (62.7%)                                                                                                                                      
 Malignant (M): 212 samples (37.3%)                                                                                                                                   
 
