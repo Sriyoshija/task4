@@ -1,1 +1,3 @@
-# Task4 Breast Cancer Classification with Logistic Regression                                                                                                           This repository contains a complete implementation of a logistic regression model for classifying breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset. The project demonstrates core machine learning workflows including data preprocessing, model training, evaluation, and interpretation with comprehensive visualizations.
+# Task4 Breast Cancer Classification with Logistic Regression
+
+This repository contains a complete implementation of a logistic regression model for classifying breast tumors as malignant or benign using the Breast Cancer Wisconsin dataset. The project demonstrates core machine learning workflows including data preprocessing, model training, evaluation, and interpretation with comprehensive visualizations.
