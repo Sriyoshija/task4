@@ -20,6 +20,32 @@ concavity_worst - Worst severity of concave portions of contour and 27 other com
 Benign (B): 357 samples (62.7%)                                                                                                                                      
 Malignant (M): 212 samples (37.3%)                                                                                                                                   
 
+**Installation**                                                                                                                                                     
+1.Clone the repository:                                                                                                                                              
+git clone https://github.com/yourusername/breast-cancer-classification.git                                                                                               
+cd breast-cancer-classification                                                                                                                                       
+1.Create and activate virtual environment: 												                                                                                                                                                                                                          
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
