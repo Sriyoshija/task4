@@ -22,7 +22,7 @@ Malignant (M): 212 samples (37.3%)
 
 **Installation**                                                                                                                                                     
 1.Clone the repository:                                                                                                                                              
-git clone https://github.com/yourusername/breast-cancer-classification.git                                                                                               
+git clone https://github.com/Sriyoshija/breast-cancer-classification.git                                                                                               
 cd breast-cancer-classification                                                                                                                                       
 2.Create and activate virtual environment: 												                                                                                                                                                                                                          
 python -m venv venv                                                                                                                                                  
